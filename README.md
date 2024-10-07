@@ -1,7 +1,12 @@
 # QRConnect - QR Code Event Check-In System
 
 ## Description
-QRConnect is an Android application designed to streamline event management by enabling attendees to check in using QR codes on their mobile devices. With QRConnect, organizers can effortlessly track attendance, manage event details, and send notifications in real time. 
+QRConnect is an Android application built with Java, designed to streamline event management by enabling attendees to check in using QR codes on their mobile devices. With QRConnect, organizers can effortlessly track attendance, manage event details, and send notifications in real time. 
+
+### Technologies Used:
+- **Java**: The primary language used for developing the Android application.
+- **Firebase**: For real-time database management and notifications.
+- **Camera X, ZXing, ML Kit**: For enabling QR code scanning functionality.
 
 ### Features:
 - **QR Code Scanning**: Attendees can easily check in by scanning event-specific QR codes.
