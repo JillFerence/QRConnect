@@ -3,6 +3,8 @@
 ## Description
 QRConnect is an Android application built with Java, designed to streamline event management by enabling attendees to check in using QR codes on their mobile devices. With QRConnect, organizers can effortlessly track attendance, manage event details, and send notifications in real time. 
 
+![QRConnect Screens](https://github.com/user-attachments/assets/57af4abe-7e43-4ce5-ba3c-3e4f3a8d08e3)
+
 ### Technologies Used:
 - **Java**: The primary language used for developing the Android application.
 - **Firebase**: For real-time database management and notifications.
@@ -62,6 +64,39 @@ John, an event organizer, utilizes QRConnect for his upcoming tech conference. H
 - **US 04.06.01:** Browse images.
 
 ## Setup & Usage
+### Video Overview
+The following video provides a walkthrough of the QRConnect app's features, including the roles and permissions of an organizer, attendee, and administrator. 
+
+[![Watch the video](https://github.com/user-attachments/assets/ab962b65-87b6-4d91-bf39-4f480e2ff1cc)](https://github.com/user-attachments/assets/e416ab1b-407f-4a89-925a-5c9d5d08aab6)
+
+### Setup Instructions
+To set up the QRConnect project in Android Studio, follow these steps:
+
+1. **Prerequisites:**
+    - Ensure you have the latest version of Java Development Kit (JDK) installed.
+    - Download and install the latest version of Android Studio.
+
+2. **Clone the repository:**
+    - Open your terminal and run the following command: git clone https://github.com/JillFerence/QRConnect.git
+
+3. **Open the project:**
+    - Launch Android Studio.
+    - Select File, Open, and navigate to the cloned QRConnect directory.
+
+4. **Configure Firebase:**
+    - Go to the [Firebase Console](https://console.firebase.google.com/) and create a new project.
+    - Follow the instructions to add your Android app to the Firebase project.
+    - Download the google-services.json file and place it in the app/ directory of your project.
+
+5. **Build the Project:**
+    - Sync your project with Gradle files by clicking Sync Now when prompted.
+    - Once the sync is complete, build the project by selecting Build > Make Project.
+
+6. **Run the App:**
+    - Connect your Android device or start an Android emulator.
+    - Click the Run button (green triangle) in Android Studio to launch the app on your device.
+
+With these steps, you should be ready to start using the QRConnect app!
 
 ## Credits
 - **Developer**: Jill Ference  
