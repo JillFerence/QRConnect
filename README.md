@@ -73,4 +73,4 @@ John, an event organizer, utilizes QRConnect for his upcoming tech conference. H
   [GitHub Profile](https://github.com/kevinfrito)
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/JillFerence/QRConnect/tree/main?tab=MIT-1-ov-file).
