@@ -11,11 +11,15 @@ QRConnect is an Android application built with Java, designed to streamline even
 - **Camera X, ZXing, ML Kit**: For enabling QR code scanning functionality.
 
 ### Features
-- **QR Code Scanning**: Attendees can easily check in by scanning event-specific QR codes.
-- **Firebase Integration**: Utilizes Firebase for storing event details, attendee lists, and real-time check-in status updates.
-- **Multi-User Interaction**: Distinguishes between organizers and attendees with different app roles and permissions.
-- **Geolocation Verification**: Verifies attendee presence at the event location using geolocation.
-- **Image Upload**: Allows organizers to upload event posters and attendees to upload profile pictures for personalization.
+- **QR Code Scanning:** Attendees can easily check in by scanning event-specific QR codes.
+- **Firebase Integration:** Utilizes Firebase for storing event details, attendee lists, and real-time check-in status updates.
+- **Multi-User Interaction:** Distinguishes between organizers, attendees, and administrators with different app roles and permissions.
+- **Geolocation Verification:** Verifies attendee presence at the event location using geolocation.
+- **Image Upload:** Allows organizers to upload event posters and attendees to upload profile pictures for personalization.
+- **Real-Time Notifications:** Sends instant notifications between organizers and attendees, informing attendees of event updates and confirming successful check-ins, while alerting organizers of event statuses in real-time.
+- **Admin Permissions:** Provides administrators with advanced permissions to manage events, profiles, and images of all users to ensure safe and appropriate application usage. 
+
+Admin Permissions: Provides organizers with advanced permissions to manage event settings, attendee lists, and notifications, ensuring secure access to critical administrative features and real-time updates.
 
 ### Scenario
 John, an event organizer, utilizes QRConnect for his upcoming tech conference. He generates a unique QR code for the event and attendees sign up indicating their attendance. As attendees arrive, they scan the QR code for seamless check-ins, updating John's dashboard in real time. John can also send push notifications to all attendees through the app.
