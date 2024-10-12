@@ -103,7 +103,6 @@ To set up the QRConnect project in Android Studio, follow these steps:
 With these steps, you should be ready to start using the QRConnect app!
 
 ## Credits
-This project was completed for credit in CMPUT 301 - Introduction to Software Engineering at the University of Alberta.
 
 - **Developer**: Jill Ference  
   [GitHub Profile](https://github.com/jillference) | [LinkedIn](https://linkedin.com/in/jillference)
